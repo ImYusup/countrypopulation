@@ -1,0 +1,16 @@
+.countries {
+
+    max-width: 1100px;
+    width: calc(100% - 40px);
+
+    background-color:cadetblue;
+
+    padding: 20px 10px;
+    margin: 10px 20px;
+
+    margin-bottom: 40px;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
